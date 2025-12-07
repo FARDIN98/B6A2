@@ -7,7 +7,7 @@ Backend API for managing vehicles, users, and bookings with role-based authentic
 - Project Name: Vehicle Rental System API
 - Live URL: https://b6-a2-mu.vercel.app/
 - Local Dev URL: http://localhost:5001
-- GitHub Repo: https://github.com/your-username/your-repo
+- GitHub Repo: https://github.com/FARDIN98/B6A2
 
 ## Features
 
