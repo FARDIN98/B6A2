@@ -239,16 +239,4 @@ B6A2/
     -H "Authorization: Bearer $ADMIN_TOKEN"
   ```
 
-### Notes
-- Follow exact request/response structures in `API_REFERENCE.md`.
-- Deletion constraints: cannot delete if there are active bookings.
-- Auto-return: bookings auto-marked as `returned` after `rent_end_date`; vehicle becomes `available`.
 
-## Submission
-
-Provide these in your assignment submission:
-
-```
-GitHub Repo: https://github.com/your-username/your-repo
-Live Deployment: https://your-live-deployment.example.com
-```
